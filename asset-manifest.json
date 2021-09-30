@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dashboard-crypto/static/css/main.8292edac.chunk.css",
+    "main.js": "/dashboard-crypto/static/js/main.6286b089.chunk.js",
+    "main.js.map": "/dashboard-crypto/static/js/main.6286b089.chunk.js.map",
+    "runtime-main.js": "/dashboard-crypto/static/js/runtime-main.e121c038.js",
+    "runtime-main.js.map": "/dashboard-crypto/static/js/runtime-main.e121c038.js.map",
+    "static/js/2.0fd7c6bb.chunk.js": "/dashboard-crypto/static/js/2.0fd7c6bb.chunk.js",
+    "static/js/2.0fd7c6bb.chunk.js.map": "/dashboard-crypto/static/js/2.0fd7c6bb.chunk.js.map",
+    "index.html": "/dashboard-crypto/index.html",
+    "static/css/main.8292edac.chunk.css.map": "/dashboard-crypto/static/css/main.8292edac.chunk.css.map",
+    "static/js/2.0fd7c6bb.chunk.js.LICENSE.txt": "/dashboard-crypto/static/js/2.0fd7c6bb.chunk.js.LICENSE.txt",
+    "static/media/loading.f44d20d2.svg": "/dashboard-crypto/static/media/loading.f44d20d2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e121c038.js",
+    "static/js/2.0fd7c6bb.chunk.js",
+    "static/css/main.8292edac.chunk.css",
+    "static/js/main.6286b089.chunk.js"
+  ]
+}
