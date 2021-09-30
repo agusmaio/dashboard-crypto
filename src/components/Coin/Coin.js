@@ -18,4 +18,7 @@ const Coin = ({ coin, setSelectedCoin }) => {
   );
 };
 
+
+
+
 export default Coin;
